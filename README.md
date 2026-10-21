@@ -91,3 +91,14 @@ These results reflect the historical data and scenario assumptions used in the w
 ## Project Purpose
 
 This project demonstrates practical Excel-based data analytics skills, including financial data preparation, analytical calculations, scenario modeling, data visualization, and communicating findings and limitations.
+
+## Dashboard Screenshots
+
+### S&P 500 Performance and Investment Growth
+![S&P 500 performance dashboard](Screenshot_1.png)
+
+### Monthly Contributions and Retirement Projection
+![Monthly contributions and retirement dashboard](Screenshot_2.png)
+
+### VOO vs. S&P 500 Comparison
+![VOO vs S&P 500 comparison](Screenshot_3.png)
